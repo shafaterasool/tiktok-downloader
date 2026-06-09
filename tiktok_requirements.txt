@@ -1,0 +1,8 @@
+# TikTok Channel Downloader - Requirements
+# Python 3.7+ required
+
+# Core dependency - YouTube/TikTok downloader library
+yt-dlp>=2024.1.0
+
+# Note: The following are Python standard library modules (no installation needed)
+# os, sys, subprocess, datetime
